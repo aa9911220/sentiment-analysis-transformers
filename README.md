@@ -38,12 +38,6 @@ A **random baseline** is included for comparison.
 - Training loss curve
 - Accuracy over epochs
 
-## 🚀 Future Improvements (VG-level extensions)
-- Use PyTorch Dataset and DataLoader
-- Compare BERT vs DistilBERT
-- Compare monolingual vs multilingual models
-- Add traditional ML baseline (e.g., Logistic Regression)
-
 ## 💡 Reflections
 ### Challenges
 - Managing GPU memory when loading transformer models
@@ -53,5 +47,3 @@ A **random baseline** is included for comparison.
 - How transformer models are used in practice
 - Fine-tuning pre-trained models for classification
 - Using Hugging Face with PyTorch
-
-## 📂 Project Structure
